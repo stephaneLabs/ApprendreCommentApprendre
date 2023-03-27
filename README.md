@@ -5,6 +5,7 @@ Devoir final à la formation "Learning how To Learn" ("Apprendre comment Apprend
 * Dr. Barbara Oakley
   Professor of Engineering
   Deep Teaching Solutions
+  https://barbaraoakley.com/
 
 * Dr. Terrence Sejnowski
   Francis Crick Professor at the Salk Institute for Biological Studies
